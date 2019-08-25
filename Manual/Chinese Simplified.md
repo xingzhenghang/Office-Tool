@@ -252,7 +252,7 @@ ODT 会查找计算机上已安装了的 MSI 版本的 Office 的语言，并将
 问题|提示 This product require Windows 10 to continue
 问题原因|这个产品只支持在 Windows 10 中安装
 解决办法1|更新您的系统至 Windows 10 之后再安装 Office。如果您并未打算安装 Office 2019，请更改套件、产品。
-解决办法2|使用 Office Tool Plus Lite 在 Windows 7 上强制安装 Office。
+解决办法2|使用 Office Tool Lite 在 Windows 7 上强制安装 Office。
 
 如果您无法使用 OTL 在 Win 7 上安装 Office 2019，请参照 B站教程 通过更改许可证的方法来使用 Office 2019。
 
